@@ -40,11 +40,9 @@ What are the pros and cons of Git's automatic merging vs. always
 doing merges manually?
 
 Auto:
-	pro:	speed
-			ease of use
+	pro:	speed, ease of use
 	con:	leave updates uo to git
 
 Manual:
 	pro:	you know hat updates go where
-	con:	slow
-			tedious
+	con:	slow, tedious
